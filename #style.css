@@ -1,0 +1,45 @@
+body {
+  color: rgb(4, 7, 30);
+  text-align: center;
+}
+
+h1,
+h2,
+h3,
+.container {
+  font-family: "Maven Pro", sans-serif;
+  text-align: center;
+  background-color: rgba(15, 153, 188, 0.962);
+}
+
+.row {
+  font-family: "Maven Pro", sans-serif;
+  font-size: 20px;
+  max-width: 50%;
+  margin: 0 auto;
+}
+
+.col {
+  text-align: center;
+  padding: 10px 0;
+  max-width: 50%;
+  margin: 0 auto;
+}
+
+.container {
+  display: block;
+  margin: 0 auto;
+  text-align: center;
+  width: 500px;
+  padding: 30px 65px;
+  border-radius: 5%;
+}
+.button {
+  background-color: #fbf4f9;
+  border: none;
+  border-radius: 10px;
+  padding: 10px;
+  position: relative;
+  left: 500px;
+  top: 80px;
+}
